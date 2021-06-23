@@ -58,6 +58,6 @@ sdbelow39 = st.stdev(below39)
 print("The mean of the people who saved below $39 is ", meanbelow39)
 print("The mode of the people who saved below $39 is ", modebelow39)
 print("The median of the people who saved below $39 is ", medianbelow39)
-print("The median of the people who saved over $39 is ", sdbelow39)
+print("The standard deviation of the people who saved over $39 is ", sdbelow39)
  
     
